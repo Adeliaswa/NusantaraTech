@@ -55,7 +55,7 @@ NusantaraTech/
 
 ---
 
-## ✅ Prasyarat
+## Prasyarat
 
 Pastikan perangkat sudah memiliki:
 
@@ -363,7 +363,7 @@ Yang diverifikasi:
 
 ---
 
-## 📦 Testing MinIO
+## Testing MinIO
 
 MinIO diakses melalui browser di `http://<IP_VM>:9001`.
 
